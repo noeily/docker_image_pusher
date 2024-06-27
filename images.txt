@@ -1,2 +1,1 @@
-jenkins/jenkins:lts
-harbur
+harbur/kubebot
