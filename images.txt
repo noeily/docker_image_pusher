@@ -1,1 +1,1 @@
-harbur/kubebot
+jenkins/jenkins:latest
