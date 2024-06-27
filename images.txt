@@ -1,1 +1,1 @@
-jenkins/jenkins:latest
+goharbor/prepare:v2.8.3
